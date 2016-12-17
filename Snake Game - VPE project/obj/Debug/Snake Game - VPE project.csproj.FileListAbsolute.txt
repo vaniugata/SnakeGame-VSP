@@ -1,0 +1,9 @@
+D:\University\Визуални Среди за Програмиргане\Snake Game - VPE project\Snake Game - VPE project\bin\Debug\Snake Game - VPE project.exe.config
+D:\University\Визуални Среди за Програмиргане\Snake Game - VPE project\Snake Game - VPE project\bin\Debug\Snake Game - VPE project.exe
+D:\University\Визуални Среди за Програмиргане\Snake Game - VPE project\Snake Game - VPE project\bin\Debug\Snake Game - VPE project.pdb
+D:\University\Визуални Среди за Програмиргане\Snake Game - VPE project\Snake Game - VPE project\obj\Debug\Snake Game - VPE project.csprojResolveAssemblyReference.cache
+D:\University\Визуални Среди за Програмиргане\Snake Game - VPE project\Snake Game - VPE project\obj\Debug\Snake_Game___VPE_project.Form1.resources
+D:\University\Визуални Среди за Програмиргане\Snake Game - VPE project\Snake Game - VPE project\obj\Debug\Snake_Game___VPE_project.Properties.Resources.resources
+D:\University\Визуални Среди за Програмиргане\Snake Game - VPE project\Snake Game - VPE project\obj\Debug\Snake Game - VPE project.csproj.GenerateResource.Cache
+D:\University\Визуални Среди за Програмиргане\Snake Game - VPE project\Snake Game - VPE project\obj\Debug\Snake Game - VPE project.exe
+D:\University\Визуални Среди за Програмиргане\Snake Game - VPE project\Snake Game - VPE project\obj\Debug\Snake Game - VPE project.pdb
